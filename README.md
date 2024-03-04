@@ -1,3 +1,3 @@
 # practice
 Configuring git
-This is just for practice
+This is just for practice 
